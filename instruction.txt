@@ -1,0 +1,14 @@
+md backend && cd backend
+npm init -y
+npm install cors express dotenv mongoose
+npm install -g nodemon
+nodemon server
+npm install bootstrap
+npm install react-router-dom
+
+
+https://www.youtube.com/watch?v=7CqJlxBYj-M&t=3327s
+
+npm install react-datepicker
+
+npm install axios
