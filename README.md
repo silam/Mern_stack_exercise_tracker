@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-![ReactJS Resume Website Template](exercise.png?raw=true "ReactJS Resume Website Template")
+![ReactJS MERN stack Website Template](exercise.png?raw=true "ReactJS MERN stack Website Template")
 
 ## Available Scripts
 
