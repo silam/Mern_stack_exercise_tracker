@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ![Mern Stack](exercise.png?raw=true "Mern Stack)
+![ReactJS Resume Website Template](exercise.png?raw=true "ReactJS Resume Website Template")
 
 ## Available Scripts
 
